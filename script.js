@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const item = document.getElementbyId('level')
+const item = document.getElementbyId(level)
 let level = 1
 let parent = item.parentElement()
 
