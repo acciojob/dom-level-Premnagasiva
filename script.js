@@ -1,7 +1,7 @@
 //your JS code here. If required.
-const item = document.getElementbyId(level)
-let level = 1
-let parent = item.parentElement()
+const item = document.getElementbyId('level')
+let level = 0
+let parent = item
 
 while(parent){
 	level++
